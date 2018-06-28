@@ -1,11 +1,3 @@
-/************************************************************************
-Demo software: Invariant keypoint matching.
-Author: David Lowe
-
-match.c:
-This file contains a sample program to read images and keypoints, then
-   draw lines connecting matched keypoints.
-*************************************************************************/
 
 
 #include "defs.h"
