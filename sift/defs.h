@@ -1,11 +1,3 @@
-/************************************************************************
-Demo software: Invariant keypoint matching.
-Author: David Lowe
-
-defs.h:
-This file contains the headers for a sample program to read images and
-  keypoints, then perform simple keypoint matching.
-*************************************************************************/
 
 /* From the standard C libaray: */
 #include <stdlib.h>
