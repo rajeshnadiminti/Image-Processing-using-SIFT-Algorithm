@@ -1,6 +1,4 @@
 /************************************************************************
-Demo software: Invariant keypoint matching.
-Author: David Lowe
 
 util.c:
 This file contains routines for creating floating point images,
